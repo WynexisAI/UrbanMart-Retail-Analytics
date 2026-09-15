@@ -58,6 +58,7 @@ The project includes an interactive Excel dashboard presenting key performance i
 - Profit by Product
 - Revenue by City
 - Revenue by Customer Type
+![UrbanMart Dashboard](dashboard.png)
 
 ## Recommendations
 Based on the analysis, the following actions are recommended:
